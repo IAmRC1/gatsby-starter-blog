@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Coding Corn`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Rishabh Singh`,
+      summary: `who works in Noida building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `A blog about the events of tech industry shaping up our world`,
+    siteUrl: `https://codingcorn.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `IAmRC1`,
     },
   },
   plugins: [
